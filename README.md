@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, It's Mirko here 👋
 
-<!--
-**mirkoperillo/mirkoperillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance computer scientist who likes to work as much as possible with Free software.
 
-Here are some ideas to get you started:
+- 🛠️ my daily toolbox: Java, Vuejs, Go.
+- 🌱 I like to create and contribute projects in a lot of languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❤️ My projects
+
+I love Free software for the possibility to collaborate with other people and create something usable for everybody.
+
+- [Resting](https://resting.owlcode.eu): a browser extension to debug, test and analyze HTTP and REST APIs.
+- [Enigma](https://github.com/mirkoperillo/enigma): an enigma machine emulator
+- [ts-converter](https://github.com/mirkoperillo/ts-converter): a browser extension to convert timestamps in human readable dates.
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/mirkoperillo/)
+- [My website](https://www.owlcode.eu/)
+- [My blog](https://www.owlcode.eu/blog/) 
+- [Fosstodon](https://fosstodon.org/@owlcode)
+
+### 📖 Some posts from my blog
+
+- [Elm, an alternative to Javascript](https://www.owlcode.eu/blog/elm-javascript-alternative/)
+- [First experience with Vala](https://www.owlcode.eu/blog/first-experience-with-vala/)
